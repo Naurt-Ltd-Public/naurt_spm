@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		wis3WtntxGpDXW+yO8RLeYojK8Y=
+		aLcK9ckjSmwl0YYUTHVpMHBqiek=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/naurt_framework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		MS7RqrhUiD1QIuNS9qQK8Mc+4eA=
+		4maXHGbYOHMFoLZs5RXlfjUB8Ak=
 		</data>
 		<key>Modules/naurt_framework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		T1/5pCM66X+ZO1+sX+ytXi4B84M=
+		Qid/byx3NKc+bC6EO88ok/dvHXw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -78,14 +78,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U5fe50Fgva54vmHBsxL+0ZJUM40rJrIBm/r8XJqbBno=
+			xghRK4sbhrya/iL6dZZ5zuWTKBPzleUzHCDyQhAW9AY=
 			</data>
 		</dict>
 		<key>Modules/naurt_framework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			npYb02/d3XCFuoByi9zhUo62UFZXsV56FzIz3STQksM=
+			YF8fjEczsTuQpZFTWI2GM5C7GaWM56WqVjOsydZVhZ0=
 			</data>
 		</dict>
 	</dict>
